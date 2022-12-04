@@ -1,0 +1,14 @@
+package estudos_de_sintaxe_variaveis_fluxos;
+
+import java.security.interfaces.RSAMultiPrimePrivateCrtKey;
+
+public class Testavalores {
+
+	public static void main(String[] args) {
+		int primeiroNum = 5, segundoNum = 7;
+		
+		segundoNum = primeiroNum;
+		
+		System.out.println(segundoNum);
+	}
+}
