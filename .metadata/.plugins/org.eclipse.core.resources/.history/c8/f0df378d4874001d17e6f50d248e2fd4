@@ -1,0 +1,10 @@
+package estudos_de_sintaxe_variaveis_fluxos;
+
+public class TestaCondicional {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
