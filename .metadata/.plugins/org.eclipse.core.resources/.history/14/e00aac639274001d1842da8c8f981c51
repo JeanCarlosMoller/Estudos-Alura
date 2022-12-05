@@ -1,0 +1,15 @@
+package estudos_de_sintaxe_variaveis_fluxos;
+
+public class TesteCondicionalAtividade {
+
+	public static void main(String[] args) {
+		double numero = 8;
+
+		if (numero % 3 == 0) {
+			System.out.println("Resto da divisão é igual a 0");
+		}else {
+			System.out.println("Resto da divisão não é igual a 0");
+		}
+	}
+
+}
