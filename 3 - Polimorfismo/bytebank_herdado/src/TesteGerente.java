@@ -1,4 +1,4 @@
-public class TesteGerante {
+public class TesteGerente {
     public static void main(String[] args) {
         Gerente gerente1 = new Gerente();
         gerente1.setNome("Ronaldo");
