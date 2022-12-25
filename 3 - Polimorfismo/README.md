@@ -1,18 +1,21 @@
-## Getting Started
+## Curso Alura - Java Polimorfismo: Entenda Herança e Interfaces.
+#
+[x] Introdução a herança;
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+[x] Super e reescrita de métodos;
 
-## Folder Structure
+[x] Entendendo Polimorfismo;
 
-The workspace contains two folders by default, where:
+[x] Herança e o uso construtores;
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+[x] Classes e métodos abstratos;
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+[x] Interfaces;
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+[x] Praticando herança e interfaces;
 
-## Dependency Management
+#
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Certificado - Alura.
+
+https://cursos.alura.com.br/certificate/27a804f0-1890-49bc-88af-5fb8f6b2b938
