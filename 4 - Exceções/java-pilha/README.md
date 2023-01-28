@@ -1,18 +1,19 @@
-## Getting Started
+## Curso Alura - Java Polimorfismo: Entenda Herança e Interfaces.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+[x] Pilha de execução;
 
-The workspace contains two folders by default, where:
+[x] Tratamento de exceções;
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+[x] Lançando exceções;
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+[x] Checked e Unchecked;
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+[x] Aplicando exceções;
 
-## Dependency Management
+[x] Finally e try with resources;
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+## Certificado - Alura.
+https://cursos.alura.com.br/certificate/20d0eea0-3534-4e8c-9bea-c141ad280725
