@@ -18,6 +18,12 @@ public abstract class Conta {
 
     }
 
+    /**
+     * Construtor para inicializar o objeto Conta a partir da agencia e número
+     * 
+     * @param agencia
+     * @param numero
+     */
     public Conta(int agencia, int numero) {
         Conta.total++;
         // System.out.println("o total de contas é " + Conta.total);
@@ -29,6 +35,12 @@ public abstract class Conta {
 
     public abstract void deposita(double valor);
 
+    /**
+     * Valor precisa ser maior do que o
+     * 
+     * @param valor
+     * @throws SaldoInsuficienteException
+     */
     public void saca(double valor) throws SaldoInsuficienteException {
         if (this.saldo < valor) {
             throw new SaldoInsuficienteException("Saldo: " + this.saldo + ", Valor: " + valor);
