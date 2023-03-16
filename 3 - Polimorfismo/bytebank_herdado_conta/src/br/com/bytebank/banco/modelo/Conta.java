@@ -1,5 +1,12 @@
 package br.com.bytebank.banco.modelo;
 
+/**
+ * Classe que representa a moldura de uma conta.
+ * 
+ * @author Möller
+ * @version 0.1
+ */
+
 public abstract class Conta {
 
     protected double saldo;
