@@ -1,0 +1,6 @@
+Gerar o build do arquivo .jar e rodar comando:
+
+java -Dspring.profiles.active=prod  -DDATASOURCE_URL=jdbc:mysql://localhost/vollmed_api -DDATASOURCE_USERNAME=root -DDATASOURCE_PASSWORD=root -jar api-0.0.1-SNAPSHOT.jar
+
+
+Arquivo application-prod.properties contém as variáveis de ambiente que está sendo inserido manualmente no comando.
