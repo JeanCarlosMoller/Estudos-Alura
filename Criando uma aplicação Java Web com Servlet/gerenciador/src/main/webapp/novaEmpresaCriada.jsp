@@ -5,7 +5,7 @@
     <body>        
         <h1>
             <%
-				String nomeEmpresa = "Alura";
+				String nomeEmpresa = (String)request.getAttribute("empresa");
 				
                 out.println("Empresa " + nomeEmpresa + " cadastrada com sucesso!");
             %> 
