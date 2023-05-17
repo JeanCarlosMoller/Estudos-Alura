@@ -1,0 +1,10 @@
+<html><body> 
+<script>
+String nomeEmpresa = "Alura";
+System.out.println(novaEmpresa);
+</script>
+
+
+
+<script> out.println(noomeEmpresa);</script> 
+</body> </html>

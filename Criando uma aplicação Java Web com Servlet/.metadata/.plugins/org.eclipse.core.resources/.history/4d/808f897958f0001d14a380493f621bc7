@@ -1,0 +1,6 @@
+<html><body> 
+<script>
+String nomeEmpresa = "Alura";
+System.out.println(nomeEmpresa);
+out.println(nomeEmpresa);</script> cadastrada com sucesso! 
+</body> </html>

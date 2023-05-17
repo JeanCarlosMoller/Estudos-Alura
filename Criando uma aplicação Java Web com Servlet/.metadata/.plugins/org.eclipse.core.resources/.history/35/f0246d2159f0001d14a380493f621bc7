@@ -1,0 +1,13 @@
+<html>
+    <head>
+        <title> Página JSP - Alura</title>
+    </head>
+    <body>        
+        <h1>
+            <%
+
+                out.println("nomeEmpresa");
+            %> 
+        </h1>
+    </body>
+</html>

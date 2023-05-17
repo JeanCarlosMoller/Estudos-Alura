@@ -1,0 +1,18 @@
+
+<html>
+    <head>
+        <title> Página JSP - Alura</title>
+    </head>
+    <body>
+    	<%
+			String nomeEmpresa = "Alura";
+			System.out.println(nomeEmpresa);
+		%>
+        
+        <h1>
+            <%
+                out.println("nomeEmpresa");
+            %> cadastrada com sucesso!
+        </h1>
+    </body>
+</html>

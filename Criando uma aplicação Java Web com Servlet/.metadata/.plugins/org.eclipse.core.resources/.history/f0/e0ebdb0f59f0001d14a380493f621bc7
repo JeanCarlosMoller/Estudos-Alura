@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <title> Página JSP - Alura</title>
+    </head>
+    <body>        
+        <h1>
+            <%
+				String nomeEmpresa = "Alura";
+				System.out.println(nomeEmpresa);
+                out.println("nomeEmpresa");
+            %> 
+        </h1>
+    </body>
+</html>

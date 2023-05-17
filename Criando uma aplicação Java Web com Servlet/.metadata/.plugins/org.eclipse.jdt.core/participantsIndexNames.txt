@@ -1,0 +1,5 @@
+INDEX VERSION 1.132
+C:\GIT\Java-Alura\Criando uma aplicação Java Web com Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3749285922.index
+\gerenciador\src\main\java
+C:\GIT\Java-Alura\Criando uma aplicação Java Web com Servlet\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\141730439.index
+\gerenciador\src\main\java
