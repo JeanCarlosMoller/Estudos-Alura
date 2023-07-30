@@ -11,6 +11,7 @@
 
     <div layout:fragment="conteudo">
         <h1>Cadastro de filme</h1>
+        <a href="/filmes">Listar Filmes</a>
         <form method="post" action="/filmes">
 
             <input type="hidden" name="_method" value="put" th:if="${filme != null}">
@@ -37,7 +38,9 @@
             </div>
 
             <input type="submit" value="Cadastrar">
+
         </form>
+
     </div>
 </body>
 </html>

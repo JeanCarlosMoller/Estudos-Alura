@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffd7e80e-c9ec-4577-bd0d-ed928243ccd4" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/.idea/Trabalhando com API Rest.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/Backup - Banco de dados/Dump20230406/vollmed_api_flyway_schema_history.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/Backup - Banco de dados/Dump20230406/vollmed_api_medicos.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/Backup - Banco de dados/Dump20230406/vollmed_api_pacientes.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/Insomnia - métodos http - GET-POST-PUT-DELETE/Insomnia-All_2023-04-06.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/java/med/voll/api/ApiApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/java/med/voll/api/controller/HelloController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/java/med/voll/api/controller/MedicoController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/java/med/voll/api/controller/PacienteController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/java/med/voll/api/endereco/DadosEndereco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/java/med/voll/api/endereco/Endereco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/java/med/voll/api/medico/DadosAltualizacaoMedicos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/java/med/voll/api/medico/DadosCadastroMedico.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/java/med/voll/api/medico/DadosListagemMedico.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/java/med/voll/api/medico/Especialidade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/java/med/voll/api/medico/Medico.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/java/med/voll/api/medico/MedicoRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/java/med/voll/api/paciente/DadosAtualizacaoPacientes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/java/med/voll/api/paciente/DadosCadastroPaciente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/java/med/voll/api/paciente/DadosListagemPaciente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/java/med/voll/api/paciente/Paciente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/java/med/voll/api/paciente/PacienteRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/resources/db/migration/V1__create-table-medicos.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/resources/db/migration/V2__alter-table-medicos-add-column-telefone.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/resources/db/migration/V3__create-table-pacientes.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/resources/db/migration/V4__alter-table-medicos-add-column-ativo.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/main/resources/db/migration/V5__alter-table-pacientes-add-column-ativo.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/api/src/test/java/med/voll/api/ApiApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Desenvolvimento de uma API REST/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java - Spring/screenmatch/src/main/resources/templates/filmes/formulario.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Java - Spring/screenmatch/src/main/resources/templates/filmes/formulario.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +12,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2OFG3kPoywzhKCIdRBnb52VR0bx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -62,7 +22,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/GIT/Estudos-Alura/Estudo API Rest - Java - Spring Boot"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
